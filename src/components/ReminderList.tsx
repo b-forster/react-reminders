@@ -6,7 +6,9 @@ interface ReminderListProps {
     onRemoveReminder: (id: number) => void;
 }
 
-function ReminderList({ items, onRemoveReminder }: ReminderListProps) {
+function ReminderList(
+    { items, onRemoveReminder }: ReminderListProps
+): JSX.Element {
     return (
         <ul className='list-group'>
             {items.map(item => <li className='list-group-item' key={item.id}>
