@@ -1,3 +1,9 @@
+# React + Typescript Reminders
+
+This project comes from a section of the [Ultimate Typescript Course](https://codewithmosh.com/p/the-ultimate-typescript) by [Mosh](https://members.codewithmosh.com/courses), which I highly recommend.
+
+First I coded along with the video as a quick React/Typescript/Bootstrap/Axios refresher, and then deleted the code and rewrote it (mostly!) from memory the next day.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
